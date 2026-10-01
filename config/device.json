@@ -1,0 +1,9 @@
+{
+  "default_model": "iPhone 17 Pro",
+  "models": {
+    "iPhone 17 Pro": {"width": 402, "height": 874, "scale": 0.72, "refresh_rate_hz": 120, "corner_radius": 48, "color": "titanium"},
+    "iPhone 16": {"width": 393, "height": 852, "scale": 0.74, "refresh_rate_hz": 60, "corner_radius": 46, "color": "black"},
+    "iPhone 15": {"width": 393, "height": 852, "scale": 0.74, "refresh_rate_hz": 60, "corner_radius": 46, "color": "blue"},
+    "iPhone SE": {"width": 375, "height": 667, "scale": 0.85, "refresh_rate_hz": 60, "corner_radius": 24, "color": "midnight"}
+  }
+}
